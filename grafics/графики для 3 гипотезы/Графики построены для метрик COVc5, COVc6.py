@@ -39,5 +39,3 @@ for metric in metrics_numeric:
     plt.grid(axis='y', alpha=0.5)
     plt.tight_layout()
     plt.show()
-
-print("Графики построены для метрик:", metrics_numeric)
